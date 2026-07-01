@@ -27,7 +27,7 @@ def main():
         "first_name_en": "saharat",
         "last_name_en": "Benjaisirluck",
         "faculty": "คณะวิทยาศาสตร์และเทคโนโลยี",
-        "photo_path": "assets/photos/lisa.jpg",
+        "photo_path": "assets/profile.png",
     }
     
     # สร้างนักศึกษา
